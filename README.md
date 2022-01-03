@@ -4,7 +4,7 @@
 
 ## ⚡Things I like to do
 - Building projects
-- Competitive Programming
+- Solving Problems
 - Learning new tech things :muscle: 
 
 ## 🔭 I’m currently learning:
