@@ -9,9 +9,9 @@
 
 ## 🔭 I’m currently learning:
 In my freetime :
-- Java Spring Framework/ Python Django
+- Javascript/ ReactJS
+- Python Django
 - Distributed System :monocle_face:
-- Apache Kafka
 
 In school:
 - NoSQL
