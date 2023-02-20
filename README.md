@@ -8,7 +8,6 @@
 - Learning new tech things :muscle: 
 
 ## 🔭 I’m currently learning:
-In my freetime :
 - Golang, Django, AWS
 - Distributed System :monocle_face:
 - Machine Learning
