@@ -1,5 +1,5 @@
 ## Hi there, I am Can 👋 :apple:
-- Earning my CS degree at San Jose State University
+- BS in CS at San Jose State University
 - :eyes: Curious about everything in Software Engineering
 
 ## ⚡Things I like to do
@@ -9,9 +9,9 @@
 
 ## 🔭 I’m currently learning:
 In my freetime :
-- Typescript / ReactJS
-- Python Django
+- Golang, Django, AWS
 - Distributed System :monocle_face:
+- Machine Learning
 
 
 ## 📫 How to reach me
