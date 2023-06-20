@@ -8,7 +8,7 @@
 - Learning new tech things :muscle: 
 
 ## 🔭 I’m currently learning:
-- Typescript, Django, AWS, React
+- Typescript, Golang, Django, AWS, React
 - Distributed System :monocle_face:
 
 
