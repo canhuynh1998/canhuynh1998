@@ -3,14 +3,15 @@
 - :eyes: Curious about everything in Software Engineering
 
 ## ⚡Things I like to do
-- Building projects
-- Solving Problems
+- Working on different projects
 - Learning new tech things :muscle: 
 
-## 🔭 I’m currently learning:
-- Typescript, Golang, Django, React
-- Distributed System, Machine Learning :monocle_face:
+## 🔭 I’m currently learning
+- Distributed Systems, Machine Learning , Cloud Computing
+- Typescript, Java, Python, Golang, SpringBoot, React, Angular, Django, AWS
 
+## I have worked on projects that use
+- Typescript, Java, Express, SpringBoot, React, Angular
 
 ## 📫 How to reach me
 <a href="mailto:canhuynh1998@gmail.com">![canhuynh1998@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/hoccanhuynh/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
