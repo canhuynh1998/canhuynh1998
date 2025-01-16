@@ -7,11 +7,11 @@
 - Learning new tech things :muscle: 
 
 ## 🔭 I’m currently learning
-- Distributed Systems, Machine Learning , Cloud Computing
+- Distributed Systems, Machine Learning
 - Typescript, Java, Python, Golang, SpringBoot, React, Angular, Django, AWS
 
 ## I have worked on projects that use
-- Typescript, Java, Express, SpringBoot, React, Angular
+- Typescript, Python, FastAPI, React, Next.js, Express, Golang
 
 ## 📫 How to reach me
 <a href="mailto:canhuynh1998@gmail.com">![canhuynh1998@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/hoccanhuynh/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
