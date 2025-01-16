@@ -11,7 +11,7 @@
 - Typescript, Java, Python, Golang, SpringBoot, React, Angular, Django, AWS
 
 ## I have worked on projects that use
-- Typescript, Python, FastAPI, React, Next.js, Express, Golang
+- Typescript, Python, FastAPI, React, Next.js, Express, Golang, Cypress
 
 ## 📫 How to reach me
 <a href="mailto:canhuynh1998@gmail.com">![canhuynh1998@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/hoccanhuynh/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
